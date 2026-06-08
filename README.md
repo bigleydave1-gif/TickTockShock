@@ -1,3 +1,1 @@
-npm init -y
-npm install express cors dotenv jsonwebtoken bcrypt prisma @prisma/client multer cloudinary
-npx prisma init
+welcome to TickTockShock where other platforms can stick it up there azz . No filters here people!  :)
