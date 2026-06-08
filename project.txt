@@ -1,0 +1,12 @@
+tiktok-clone/
+│
+├── server/
+│   ├── server.js
+│   └── package.json
+│
+├── public/
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+│
+└── uploads/   (empty folder for videos)
